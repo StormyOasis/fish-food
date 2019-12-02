@@ -1,2 +1,4 @@
 # fish-food
-Unity mini game: Swim and eat food for as long as possible
+Swim around eat and eat as much food as possible before you starve!
+
+A unity mini game as a learning exercise
